@@ -1,11 +1,11 @@
 export class CreateNetwork {
-  "NodeName" = "";
-  "IPaddress" = "";
-  "NodeManagerPort" = "";
-  "NetworkListeningPort" = "";
-  "ConstellationPort" = "";
-  "RaftPort" = "";
-  "NodeManagerPortt" = "";
+    "NodeName" = "";
+    "IPaddress" = "";
+    "NodeManagerPort" = "";
+    "NetworkListeningPort" = "";
+    "TesseraPort" = "";
+    "RaftPort" = "";
+    "NodeManagerPortt" = "";
 
 }
 
